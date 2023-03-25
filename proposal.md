@@ -1,39 +1,38 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: PyCaret
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+An open source low code machine learning library for python. Its goal is to make model creation faster and easier than before allowing for increased productivity. It draws from many other open source projects to allow for increased functionality and customization.
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL |  https://github.com/pycaret/pycaret  |
+| Main/documentation website |  https://pycaret.gitbook.io/docs  |
+| Year project was started | 2019  |
+| Number of contributors in the past year | 35 |
+| Number of contributors in the lifetime of the project | 105  |
+| Number of distinct affiliations | 5 |
+| Where do development discussions take place? | Github issues & slack|
+| Typical number of emails/comments per week? |  ~10 |
+| Typical number of commits per week? | 10-20 |
+| Typical commit size |1-30 lines |
+| How does the project accept contributions? | pull requests |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [x] I have installed the software
+- [x] I have run at least one example
+- [x] I have run the test suite
+- [x] The test suite passes
 
 ### Notes/concerns/risks
 
